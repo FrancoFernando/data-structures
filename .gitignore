@@ -1,0 +1,21 @@
+﻿#Directories (all levels)
+**/.vs/
+**/_bin/
+**/bin/
+**/obj/
+**/[Dd]ebug/
+**/[Rr]elease/
+**/[Pp]ackages/
+**/[Tt]est[Rr]esult*/
+
+#Files (all levels)
+*.coverage
+*.nuget.props
+*.nuget.targets
+*.nupkg
+*.user
+launchSettings.json
+
+#Directories (specific level)
+/TensorFlowServing/VMS.ASL.TensorFlowServing.Local/Native/out
+/TensorFlowServing/VMS.ASL.TensorFlowServing.Local/Native/lib
